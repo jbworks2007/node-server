@@ -1,0 +1,96 @@
+[
+  {
+    "name": "iphone15",
+    "price": 110000,
+    "featured": true,
+    "rating": 4.8,
+    "company": "apple"
+  },
+  {
+    "name": "iphone15 pro",
+    "price": 125000,
+    "featured": true,
+    "rating": 4.3,
+    "company": "apple"
+  },
+  {
+    "name": "iphone15 mini",
+    "price": 95000,
+    "featured": true,
+    "rating": 3.8,
+    "company": "apple"
+  },
+  {
+    "name": "iphone14",
+    "price": 75000,
+    "featured": true,
+    "rating": 4.7,
+    "company": "apple"
+  },
+  {
+    "name": "iphone13",
+    "price": 42000,
+    "featured": true,
+    "rating": 4.3,
+    "company": "apple"
+  },
+  {
+    "name": "iphone12",
+    "price": 35000,
+    "featured": true,
+    "rating": 3.3,
+    "company": "apple"
+  },
+  {
+    "name": "galaxy15",
+    "price": 33000,
+    "featured": true,
+    "rating": 4.3,
+    "company": "samsung"
+  },
+  {
+    "name": "galaxyF12",
+    "price": 15000,
+    "rating": 3.7,
+    "company": "samsung"
+  },
+  {
+    "name": "nordce12",
+    "price": 55000,
+    "featured": true,
+    "rating": 4.3,
+    "company": "oneplus"
+  },
+  {
+    "name": "10R",
+    "price": 33000,
+    "featured": true,
+    "rating": 4.9,
+    "company": "oneplus"
+  },
+  {
+    "name": "redmi12pro",
+    "price": 18000,
+    "rating": 4.1,
+    "company": "xiomi"
+  },
+  {
+    "name": "redmi12",
+    "price": 11000,
+    "rating": 3.3,
+    "company": "xiomi"
+  },
+  {
+    "name": "edgeneo40plus",
+    "price": 25000,
+    "featured": true,
+    "rating": 4.7,
+    "company": "motorola"
+  },
+  {
+    "name": "g54",
+    "price": 18000,
+    "rating": 4.6,
+    "company": "motorola"
+  }
+]
